@@ -1,0 +1,24 @@
+#feuRouge {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    background-color: black;
+    max-width: fit-content;
+    max-height: fit-content;
+    border-radius: 20px;
+}
+
+#feuRouge>div {
+    width: 125px;
+    height: 125px;
+    border: 1px solid rgb(216, 216, 216);
+    border-radius: 78px;
+    margin: 5px;
+}
+
+
+#objet {
+    margin-top: 15px;
+    text-align: center;
+}
